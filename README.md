@@ -7,10 +7,10 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 Skills: VUE JS / REACT / JS / HTML / CSS / PHP
 
-- 🔭 I’m currently working on Atlantic Lace Co Ltd 
-- 🌱 I’m currently learning Javascript 
-- 👯 I’m looking to collaborate on github 
-- 💬 Ask me about Web Developer 
+- ✔ I’m currently working on Atlantic Lace Co Ltd 
+- ✔ I’m currently learning Javascript 
+- ✔ I’m looking to collaborate on github 
+- ✔ Ask me about Web Developer 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/atlantic6/atlantic6)  
